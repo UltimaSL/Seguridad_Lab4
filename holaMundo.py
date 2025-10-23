@@ -1,1 +1,2 @@
-pint("Hello world")
+print("Hello world")
+print("Como estan?") 
