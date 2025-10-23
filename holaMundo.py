@@ -1,2 +1,1 @@
-pint("Hello, world!")
-
+pint("Hello world")
